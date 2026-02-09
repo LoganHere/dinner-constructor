@@ -6,8 +6,6 @@ import java.util.Random;
 
 public class DinnerConstructor {
 
-    //Я удалил изначальные комментарии, надеюсь, это не вызовет проблем при ревью
-
     HashMap<String, ArrayList<String>> dinnersByType = new HashMap<>();
     Random random = new Random();
 
